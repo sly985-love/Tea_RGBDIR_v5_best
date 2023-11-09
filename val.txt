@@ -1,0 +1,10 @@
+/home/ps/rgbd/data/data_RGBDIR_tea/DataSet/c2dup/val/0309-122859.png
+/home/ps/rgbd/data/data_RGBDIR_tea/DataSet/c2dup/val/0309-121820.png
+/home/ps/rgbd/data/data_RGBDIR_tea/DataSet/c2dup/val/0309-122338.png
+/home/ps/rgbd/data/data_RGBDIR_tea/DataSet/c2dup/val/0309-120306.png
+/home/ps/rgbd/data/data_RGBDIR_tea/DataSet/c2dup/val/0309-113537.png
+/home/ps/rgbd/data/data_RGBDIR_tea/DataSet/c2dup/val/0309-112034.png
+/home/ps/rgbd/data/data_RGBDIR_tea/DataSet/c2dup/val/0309-113312.png
+/home/ps/rgbd/data/data_RGBDIR_tea/DataSet/c2dup/val/0309-115109.png
+/home/ps/rgbd/data/data_RGBDIR_tea/DataSet/c2dup/val/0309-112631.png
+/home/ps/rgbd/data/data_RGBDIR_tea/DataSet/c2dup/val/0309-112325.png

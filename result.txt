@@ -1,0 +1,2 @@
+name:0309-111956 right:285 missing:20 error:72
+all_result: right:285 missing:20 error:72
